@@ -152,6 +152,12 @@ Users (Alphabetically)
       L: https://daimlertruck.com
       Q: @brandshaide
 
+    * N: DB Schenker
+      D: The Technology Solution Center department is using Cilium on all its clusters
+      U: CNI, CiliumNetworkPolicy, CiliumLocalRedirectPolicy and Hubble
+      L: https://www.dbschenker.com
+      Q: @pschulten
+
     * N: DaoCloud - spiderpool & merbridge
       D: spiderpool is using Cilium as their main CNI plugin for overlay and merbridge is using  Cilium eBPF library to speed up your Service Mesh
       U: CNI, Service load-balancing, cluster mesh
