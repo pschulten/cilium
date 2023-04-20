@@ -152,12 +152,6 @@ Users (Alphabetically)
       L: https://daimlertruck.com
       Q: @brandshaide
 
-    * N: DB Schenker
-      D: The Technology Solution Center department is using Cilium on all its clusters
-      U: CNI, CiliumNetworkPolicy, CiliumLocalRedirectPolicy and Hubble
-      L: https://www.dbschenker.com
-      Q: @pschulten
-
     * N: DaoCloud - spiderpool & merbridge
       D: spiderpool is using Cilium as their main CNI plugin for overlay and merbridge is using  Cilium eBPF library to speed up your Service Mesh
       U: CNI, Service load-balancing, cluster mesh
@@ -168,6 +162,12 @@ Users (Alphabetically)
       D: Datadog is using Cilium in AWS (self-hosted k8s)
       U: ENI Networking, Service load-balancing, Encryption
       Q: @lbernail, @roboll
+
+    * N: DB Schenker
+      D: The Technology Solution Center department is using Cilium on all its clusters
+      U: CNI, CiliumNetworkPolicy, CiliumLocalRedirectPolicy and Hubble
+      L: https://www.dbschenker.com
+      Q: @pschulten
 
     * N: Deckhouse
       D: Deckhouse Kubernetes Platform is using Cilium as a one of the supported CNIs.
